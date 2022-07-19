@@ -9,7 +9,15 @@
 .second-quarter{
     background-color: #1f2937;
     font-size: 48px;
-    font-weight: 800px;
+    font-weight: 800;
     color: #f9faf8;
     display: flex;
+}
+.third-quarter{
+    color: #3882f6;
+    background-color: white;
+    font-size: 36px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
 }
