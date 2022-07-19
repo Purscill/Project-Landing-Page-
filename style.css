@@ -1,0 +1,8 @@
+.header{
+    background-color: white;
+    color: rgb(61, 163, 163);
+    font-size: x-large;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
